@@ -1,11 +1,14 @@
-👋 Hello, I’m Avinash! With a background in electrical engineering and a deep interest in data science, machine learning, and deep learning, I’m dedicated to transforming data into actionable insights. I’ve completed a '100 Days of Machine Learning' challenge, which extended into a rewarding 132-day journey, solidifying my skills and fostering my passion for data science.
+<h1 align="center">Hi 👋, I'm Avinash</h1>
+<h3 align="center">A passionate Machine learning enthusiast</h3>
 
-🔬 My projects focus on building intuitive models and visualizations, with particular experience in using Python, Jupyter Notebook, and various ML libraries, including scikit-learn, TensorFlow, and Keras.
+- 🔭 I’m currently working on **Book recommender system**
 
-🌱 I enjoy tackling challenges in classification, clustering, and recommendation systems, and I’m always keen to deepen my understanding of deep learning architectures and AI applications.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Let’s connect and collaborate on projects that turn data into decisions!
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
 
