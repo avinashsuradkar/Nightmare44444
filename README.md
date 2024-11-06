@@ -1,4 +1,4 @@
-👋 Hello, I’m Avinash! With a background in electrical engineering and a deep interest in data science, machine learning, and deep learning, I’m dedicated to transforming data into actionable insights. I’ve completed a '100 Days of Machine Learning' challenge, which extended into a rewarding 132-day journey, solidifying my skills and fostering my passion for data analysis and modeling.
+👋 Hello, I’m Avinash! With a background in electrical engineering and a deep interest in data science, machine learning, and deep learning, I’m dedicated to transforming data into actionable insights. I’ve completed a '100 Days of Machine Learning' challenge, which extended into a rewarding 132-day journey, solidifying my skills and fostering my passion for data science.
 
 🔬 My projects focus on building intuitive models and visualizations, with particular experience in using Python, Jupyter Notebook, and various ML libraries, including scikit-learn, TensorFlow, and Keras.
 
